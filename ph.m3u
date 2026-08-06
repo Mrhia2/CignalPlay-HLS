@@ -1,0 +1,226 @@
+#EXTM3U url-tvg="https://thinkkast.dpdns.org/epg/ffa/cgepg.xml" tvg-url="https://thinkkast.dpdns.org/epg/ffa/cgepg.xml" x-tvg-url="https://thinkkast.dpdns.org/epg/ffa/cgepg.xml" billed-msg="ThinkKast : Public URLS " refresh="5"
+
+#EXTINF:-1 tvg-id="a2z" tvg-name="A2Z" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5580-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="1" group-title="Cignal",A2Z
+https://thinkkast.dpdns.org/thinkkast/cg_a2z/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="abc_australia" tvg-name="ABC Australia" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ACCD6-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="2" group-title="Cignal",ABC Australia
+https://thinkkast.dpdns.org/thinkkast/abc_australia/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="Al Jazeera" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9284-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="3" group-title="Cignal",Al Jazeera
+https://thinkkast.dpdns.org/thinkkast/dr_aljazeera/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="animal_planet" tvg-name="Animal Planet" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A57B0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="4" group-title="Cignal",Animal Planet
+https://thinkkast.dpdns.org/thinkkast/cg_animal_planet_sd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="animax" tvg-name="Animax" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABB06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="5" group-title="Cignal",Animax
+https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="arirang" tvg-name="Arirang" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7754-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="6" group-title="Cignal",Arirang
+https://thinkkast.dpdns.org/thinkkast/arirang_sd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="asianfoodnetwork" tvg-name="Asian Food Network" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB020-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="7" group-title="Cignal",Asian Food Network
+https://thinkkast.dpdns.org/thinkkast/asianfoodnetwork_sd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC36C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="8" group-title="Cignal",AXN
+https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="bbcearth_hd" tvg-name="BBC Earth" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6868-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="9" group-title="Cignal",BBC Earth
+https://thinkkast.dpdns.org/thinkkast/cg_bbcearth_hd1/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="bbc_lstylehd" tvg-name="BBC Lifestyle" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/Lifestyle.jpg" tvg-chno="202" group-title="Cignal",BBC Lifestyle
+https://thinkkast.dpdns.org/thinkkast/bbc_lstylehd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="bbcworld_news" tvg-name="BBC World News" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A847E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="11" group-title="Cignal",BBC World News
+https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="bilyonaryoch" tvg-name="Bilyonaryo News Channel" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77/0-16x9.jpg?width=1980" tvg-chno="12" group-title="Cignal",Bilyonaryo News Channel
+https://thinkkast.dpdns.org/thinkkast/bilyonaryoch/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AA47C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="13" group-title="Cignal",Bloomberg
+https://thinkkast.dpdns.org/thinkkast/bloomberg_sd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoon_net_hd" tvg-name="Cartoon Network" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A51FC-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="14" group-title="Cignal",Cartoon Network
+https://thinkkast.dpdns.org/thinkkast/cartoonnetworkhd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV 4" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7448-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="352" group-title="Cignal",CCTV 4
+https://thinkkast.dpdns.org/thinkkast/dr_cctv4/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="cgtnenglish" tvg-name="CGTN" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/DEFC81EE-883B-446F-BD47-21F5B7FE0730/0-16x9.jpg?width=1980" tvg-chno="16" group-title="Cignal",CGTN
+https://thinkkast.dpdns.org/thinkkast/cgtn/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="celestialmovie_pinoy" tvg-name="Cinema One" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9F0E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="17" group-title="Cignal",Cinema One
+https://thinkkast.dpdns.org/thinkkast/celmovie_pinoy_sd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="cg_cinemax" tvg-name="Cinemax" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/BC3C51E7-F1A5-46DE-979D-65DC483AE59C/0-16x9.jpg?width=1980" tvg-chno="18" group-title="Cignal",Cinemax
+https://thinkkast.dpdns.org/thinkkast/cg_cinemax/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="channelnews_asia" tvg-name="CNA" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD122-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="19" group-title="Cignal",CNA
+https://thinkkast.dpdns.org/thinkkast/channelnewsasia/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="cnn_hd" tvg-name="CNN" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5468-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="20" group-title="Cignal",CNN
+https://thinkkast.dpdns.org/thinkkast/cg_cnnhd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="crime_investigation" tvg-name="Crime & Investigation" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD5C8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="21" group-title="Cignal",Crime & Investigation
+https://thinkkast.dpdns.org/thinkkast/crime_invest/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="depedchannel" tvg-name="DepEd TV" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9590-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="22" group-title="Cignal",DepEd TV
+https://thinkkast.dpdns.org/thinkkast/depedch_sd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery Channel" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A734E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="23" group-title="Cignal",Discovery Channel
+https://thinkkast.dpdns.org/thinkkast/discovery/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="cg_dreamworktag" tvg-name="DreamWorks" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/40E328E7-FE69-4287-86EA-FA942A7EA302/0-16x9.jpg?width=1980" tvg-chno="24" group-title="Cignal",DreamWorks
+https://thinkkast.dpdns.org/thinkkast/cg_dreamworktag/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="dreamworks_hd" tvg-name="DreamWorks" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5698-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="25" group-title="Cignal",DreamWorks
+https://thinkkast.dpdns.org/thinkkast/cg_dreamworks_hd1/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="foodnetwork_hd" tvg-name="Food Network" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9496-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="26" group-title="Cignal",Food Network
+https://thinkkast.dpdns.org/thinkkast/cg_foodnetwork_hd1/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="france24" tvg-name="France 24" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC9B6-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="155" group-title="Cignal",France 24
+https://thinkkast.dpdns.org/thinkkast/france24/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="globaltrekker" tvg-name="Global Trekker" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/09A671F2-39E7-47AF-BC9B-53AB53BC7FD0/0-16x9.jpg?width=1980" tvg-chno="28" group-title="Cignal",Global Trekker
+https://thinkkast.dpdns.org/thinkkast/globaltrekker/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="cg_hbohd" tvg-name="HBO" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B741DD7A-A7F8-4F8A-A549-9EF411020F9D/0-16x9.jpg?width=1980" tvg-chno="29" group-title="Cignal",HBO
+https://thinkkast.dpdns.org/thinkkast/cg_hbohd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="cg_hbofam" tvg-name="HBO Family" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/62F1A4ED-EB56-49DF-912D-0A2388131772/0-16x9.jpg?width=1980" tvg-chno="30" group-title="Cignal",HBO Family
+https://thinkkast.dpdns.org/thinkkast/cg_hbofam/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="cg_hbohits" tvg-name="HBO Hits" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/CEE83EE5-D870-4B3C-9339-ACA7FF4020D0/0-16x9.jpg?width=1980" tvg-chno="31" group-title="Cignal",HBO Hits
+https://thinkkast.dpdns.org/thinkkast/cg_hbohits/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="cg_hbosign" tvg-name="HBO Signature" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/D5127959-34E4-41B2-AA80-CE74DDC2C3C4/0-16x9.jpg?width=1980" tvg-chno="32" group-title="Cignal",HBO Signature
+https://thinkkast.dpdns.org/thinkkast/cg_hbosign/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="hgtv_hd" tvg-name="HGTV" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A858C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="33" group-title="Cignal",HGTV
+https://thinkkast.dpdns.org/thinkkast/hgtv_hd1/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="history_hd" tvg-name="History" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9C02-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="34" group-title="Cignal",History
+https://thinkkast.dpdns.org/thinkkast/dr_historyhd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="hits_hd" tvg-name="HITS" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8BB8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="35" group-title="Cignal",HITS
+https://thinkkast.dpdns.org/thinkkast/hits_hd1/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="hits_movies" tvg-name="Hits Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ACF06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="87" group-title="Cignal",Hits Movies
+https://thinkkast.dpdns.org/thinkkast/hits_movies/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="cg_hitsnow" tvg-name="Hits Now" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/68C2D95A-A2A4-4C2B-93BE-41893C61210C/0-16x9.jpg?width=1980" tvg-chno="37" group-title="Cignal",Hits Now
+https://thinkkast.dpdns.org/thinkkast/cg_hitsnow/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="ibc13" tvg-name="IBC 13" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABC0A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="38" group-title="Cignal",IBC 13
+https://thinkkast.dpdns.org/thinkkast/ibc13_sd_new/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="kapatid_hd" tvg-name="Kapatid" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/F222CD8E-81E5-4D77-AC2F-86E7129C2DD7/0-16x9.jpg?width=1980" tvg-chno="39" group-title="Cignal",Kapatid
+https://thinkkast.dpdns.org/thinkkast/kapatid_hd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="kbs_world" tvg-name="KBS World" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7CE0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="40" group-title="Cignal",KBS World
+https://thinkkast.dpdns.org/thinkkast/kbsworld/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="kix_hd" tvg-name="KIX" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7EE8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="41" group-title="Cignal",KIX
+https://thinkkast.dpdns.org/thinkkast/kix_hd1/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="knowledge_channel" tvg-name="Knowledge Channel" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADA5A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="536" group-title="Cignal",Knowledge Channel
+https://thinkkast.dpdns.org/thinkkast/knowledge_channel/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="lifetime" tvg-name="Lifetime" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A80E6-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="43" group-title="Cignal",Lifetime
+https://thinkkast.dpdns.org/thinkkast/dr_lifetime/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="lotusmacau_prd" tvg-name="Lotus Macau" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C6AB65CE-37A0-4040-ABA7-021C669DBEE1/0-16x9.jpg?width=1980" tvg-chno="44" group-title="Cignal",Lotus Macau
+https://thinkkast.dpdns.org/thinkkast/lotusmacau_prd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="moonbug_kids" tvg-name="Moonbug Kids" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC696-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="45" group-title="Cignal",Moonbug Kids
+https://thinkkast.dpdns.org/thinkkast/cg_moonbug_kids_sd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="nba-tv-philippines" tvg-name="NBA TV Philippines" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/3327FF64-3E52-42DE-B516-4629BFABA8C7/0-16x9.jpg?width=1980" tvg-chno="46" group-title="Cignal",NBA TV Philippines
+https://thinkkast.dpdns.org/thinkkast/cgnl_nba/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="nhk_japan" tvg-name="NHK World-Japan" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AA896-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="47" group-title="Cignal",NHK World-Japan
+https://thinkkast.dpdns.org/thinkkast/dr_nhk_japan/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="nickjr" tvg-name="Nick Jr" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB8E0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="501" group-title="Cignal",Nick Jr
+https://thinkkast.dpdns.org/thinkkast/dr_nickjr/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADD5C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="49" group-title="Cignal",Nickelodeon
+https://thinkkast.dpdns.org/thinkkast/dr_nickelodeon/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="onenews_hd" tvg-name="One News" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7DDA-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="50" group-title="Cignal",One News
+https://thinkkast.dpdns.org/thinkkast/onenews_hd1/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="oneph" tvg-name="One PH" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9392-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="51" group-title="Cignal",One PH
+https://thinkkast.dpdns.org/thinkkast/oneph_sd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="onesports" tvg-name="One Sports" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB750-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="52" group-title="Cignal",One Sports
+https://thinkkast.dpdns.org/thinkkast/cg_onesports_hd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="onesportsplus_hd" tvg-name="One Sports Plus" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A696C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="53" group-title="Cignal",One Sports Plus
+https://thinkkast.dpdns.org/thinkkast/cg_onesportsplus_hd1/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="pbarush_hd" tvg-name="PBA Rush" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7650-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="54" group-title="Cignal",PBA Rush
+https://thinkkast.dpdns.org/thinkkast/cg_pbarush_hd1/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="premiersports2hd" tvg-name="Premier Sports 2" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A899C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="55" group-title="Cignal",Premier Sports 2
+https://thinkkast.dpdns.org/thinkkast/premiersports2hd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="premiersports_hd" tvg-name="Premier Sports" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6228-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="56" group-title="Cignal",Premier Sports
+https://thinkkast.dpdns.org/thinkkast/cg_ps_hd1/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="nbn4" tvg-name="PTV" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5F08-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="57" group-title="Cignal",PTV
+https://thinkkast.dpdns.org/thinkkast/cg_ptv4_sd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="rock_entertainment" tvg-name="Rock Entertainment" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6C78-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="58" group-title="Cignal",Rock Entertainment
+https://thinkkast.dpdns.org/thinkkast/dr_rockentertainment/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="dr_rockextreme" tvg-name="Rock Extreme" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6520-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="59" group-title="Cignal",Rock Extreme
+https://thinkkast.dpdns.org/thinkkast/dr_rockextreme/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="rptv" tvg-name="RPTV" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/44B03994-C303-4ACE-997C-91CAC493D0FC/0-16x9.jpg?width=1980" tvg-chno="60" group-title="Cignal",RPTV
+https://thinkkast.dpdns.org/thinkkast/cnn_rptv_prod_hd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="SPOTV_HD2" tvg-name="SPOTV 2 FHD" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6A70-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="61" group-title="Cignal",SPOTV 2 FHD
+https://thinkkast.dpdns.org/thinkkast/dr_spotv2hd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="SPOTV_HD" tvg-name="SPOTV" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5BC0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="62" group-title="Cignal",SPOTV
+https://thinkkast.dpdns.org/thinkkast/cg_spotvhd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="cg_tagalogmovie" tvg-name="Tagalog Movie Channel" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/A9E09C52-721F-4316-ABB9-35EF145B69C0/0-16x9.jpg?width=1980" tvg-chno="63" group-title="Cignal",Tagalog Movie Channel
+https://thinkkast.dpdns.org/thinkkast/cg_tagalogmovie/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="tapmovies_hd" tvg-name="TAP Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC48E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="64" group-title="Cignal",TAP Movies
+https://thinkkast.dpdns.org/thinkkast/cg_tapmovies_hd1/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="tap_sports" tvg-name="Tap Sports" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6624-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="646" group-title="Cignal",Tap Sports
+https://thinkkast.dpdns.org/thinkkast/dr_tapsports/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="thrill" tvg-name="Thrill" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD230-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="66" group-title="Cignal",Thrill
+https://thinkkast.dpdns.org/thinkkast/cg_thrill_sd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="travel_channel" tvg-name="Travel Channel" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8898-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="67" group-title="Cignal",Travel Channel
+https://thinkkast.dpdns.org/thinkkast/travel_channel_sd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="truefmtv" tvg-name="True FM TV" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/4514F052-94DC-47C5-8BB1-DA42BD5F2F57/0-16x9.jpg?width=1980" tvg-chno="608" group-title="Cignal",True FM TV
+https://thinkkast.dpdns.org/thinkkast/truefm_tv/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="tvmaria_prd" tvg-name="TV Maria" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/2C55AD7F-3589-48DA-BEC4-005200215975/0-16x9.jpg?width=1980" tvg-chno="69" group-title="Cignal",TV Maria
+https://thinkkast.dpdns.org/thinkkast/tvmaria_prd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="tv5" tvg-name="TV5" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A97A2-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="5" group-title="Cignal",TV5
+https://thinkkast.dpdns.org/thinkkast/tv5/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="tv5_monde" tvg-name="TV5 Monde" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADB5E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="71" group-title="Cignal",TV5 Monde
+https://thinkkast.dpdns.org/thinkkast/dr_tv5_monde/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="cg_tvnmovie" tvg-name="tvN Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C5298B63-6A6F-4CEC-8AC7-07B482EFA587/0-16x9.jpg?width=1980" tvg-chno="72" group-title="Cignal",tvN Movies
+https://thinkkast.dpdns.org/thinkkast/cg_tvnmovie/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="cg_tvnpre" tvg-name="tvN Premium" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/66B5278C-75EA-4D93-AD2B-A5822A0F1056/0-16x9.jpg?width=1980" tvg-chno="73" group-title="Cignal",tvN Premium
+https://thinkkast.dpdns.org/thinkkast/cg_tvnpre/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="uaap_varsity" tvg-name="UAAP Varsity Channel" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A869A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="74" group-title="Cignal",UAAP Varsity Channel
+https://thinkkast.dpdns.org/thinkkast/cg_uaap_cplay_sd/versiglia/index.m3u8
+
+#EXTINF:-1 tvg-id="tv5vibetv" tvg-name="Vibe TV" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/726AB804-66DE-4684-A455-ABD1683114CF/0-16x9.jpg?width=1980" tvg-chno="75" group-title="Cignal",Vibe TV
+https://thinkkast.dpdns.org/thinkkast/tv5vibetv/versiglia/index.m3u8
